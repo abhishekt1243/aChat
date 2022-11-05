@@ -30,9 +30,13 @@
   <li> A instance of the application will appear in the browser. 
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
+
 # User Abhi 1
+
 ![Screenshot 2022-11-05 at 6 22 27 PM](https://user-images.githubusercontent.com/94693306/200123647-6af13826-29b9-4fa9-89eb-d0684dabc960.png)
+
 ![Screenshot 2022-11-05 at 6 24 07 PM](https://user-images.githubusercontent.com/94693306/200123685-d430dee5-c717-4903-8294-702dce9611b0.png)
+
 #User Aman: 2
 ![Screenshot 2022-11-05 at 6 24 33 PM](https://user-images.githubusercontent.com/94693306/200123719-28976518-162b-4ab9-b08b-c885ec1d4d82.png)
 
