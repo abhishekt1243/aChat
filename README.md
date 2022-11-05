@@ -34,13 +34,19 @@
 # User Abhi 1
 
 ![Screenshot 2022-11-05 at 6 22 27 PM](https://user-images.githubusercontent.com/94693306/200123647-6af13826-29b9-4fa9-89eb-d0684dabc960.png)
-![Screenshot 2022-11-05 at 6 24 59 PM](https://user-images.githubusercontent.com/94693306/200123881-bea597a5-1120-47c3-85d2-202d5a4f8540.png)
 
+![Screenshot 2022-11-05 at 6 24 07 PM](https://user-images.githubusercontent.com/94693306/200124073-c02dd178-d052-4d9a-aee8-24f62c94872c.png)
 
+![Screenshot 2022-11-05 at 6 25 25 PM](https://user-images.githubusercontent.com/94693306/200124159-49e4fbfe-fd68-42b8-88d6-fad4169b7ff8.png)
 
 
 #User Aman: 2
 
+![Screenshot 2022-11-05 at 6 24 33 PM](https://user-images.githubusercontent.com/94693306/200124088-09f3acc5-2fa6-4b91-8b69-b72e306aa095.png)
+
+![Screenshot 2022-11-05 at 6 24 59 PM](https://user-images.githubusercontent.com/94693306/200124122-cd0ddb86-4e5d-4f1f-af4d-68ec1d18085c.png)
+
+![Screenshot 2022-11-05 at 6 27 00 PM](https://user-images.githubusercontent.com/94693306/200124169-7a57e1ba-65b3-4fb5-891e-7294e6464a5d.png)
 
 
 
